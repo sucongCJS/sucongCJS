@@ -6,5 +6,5 @@ To be VCCer!!!
 
 - 🔭 I’m currently working on Computer Graphics
 - 🌱 I’m currently learning C++, OpenGL
-- 📫 How to reach me: ![sucongCJS](http://www.sucong.top/)
+- 📫 How to reach me: [sucongCJS](http://www.sucong.top/)
 
