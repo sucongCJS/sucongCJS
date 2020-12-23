@@ -1,4 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=sucongCJS&hide_border=true&show_icons=true&line_height=30)
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sucongCJS&layout=compact&hide=html,asp,jupyter notebook" alt="sucongCJS" />
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sucongCJS&show_icons=true" alt="sucongCJS" />
 
 To be VCCer!!!
 <!--
